@@ -14,7 +14,7 @@ int main(int argc, char **argv)
 char **charSquare(int n)
 {
 	char **square;
-	return square;
+	return square; //hfweiuhf
 }
 
 void drawCharSquare(char **square, int n)
